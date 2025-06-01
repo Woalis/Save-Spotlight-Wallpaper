@@ -12,7 +12,7 @@ The PowerShell script handles copying the images, putting them in your user's di
 The Batch script runs the PowerShell script, as a .ps1 script might not run directly due to the [Execution Policy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3). If you rename the PowerShell script, or change its location, edit the `SET PowerShellScriptPath` line.
 
 ## 📝 License
-The Batch script code was shared by [Daniel Schroeder](https://github.com/deadlydog) in a really educational [blog post](https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/) [under](https://blog.danskingdom.com/about/#-license) the [Creative Commons 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+The Batch script code was shared by [Daniel Schroeder](https://github.com/deadlydog) in a really educational [blog post](https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/) [under](https://blog.danskingdom.com/about/#-license) the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 A version of the PowerShell script was originally hobbled together by me, but it was updated by the AI Claude.
 
